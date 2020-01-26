@@ -1,0 +1,15 @@
+
+@media only screen and (max-width: 960px) {
+    body {
+        background-color: #F5CF8E; /* Yellow */
+        
+      }
+    div {
+        width: 50%;
+    }
+  }
+  .content{
+    display:flex;
+    flex-wrap: wrap;
+    width:100%
+}
